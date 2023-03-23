@@ -11,3 +11,6 @@ Do not forget that email sites are relatively dynamic and can undergo various ch
 The presence of pop-ups and presentation banners must be taken into account and inserted into the tests.
 Many times I encountered problems because of these banners or pop-ups which, as they say in specialized terms, "stole my click"
 The account is a general and unused one, created especially for this purpose - demonstrative.
+
+
+Doar pentru studiu / For study only
