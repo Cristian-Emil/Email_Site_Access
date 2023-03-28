@@ -9,7 +9,7 @@ Contul este unul general si neutilizat, creat special in acest scop - demonstrat
 Here is presented how to access a site and check its various properties.
 Do not forget that email sites are relatively dynamic and can undergo various changes over time.
 The presence of pop-ups and presentation banners must be taken into account and inserted into the tests.
-Many times I encountered problems because of these banners or pop-ups which, as they say in specialized terms, "stole my click"
+Many times I encountered problems because of these banners or pop-ups which, as they say in specialized terms, "stole my click".
 The account is a general and unused one, created especially for this purpose - demonstrative.
 
 
