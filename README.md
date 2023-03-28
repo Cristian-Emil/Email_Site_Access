@@ -13,4 +13,4 @@ Many times I encountered problems because of these banners or pop-ups which, as 
 The account is a general and unused one, created especially for this purpose - demonstrative.
 
 
-Doar pentru studiu / For study only
+Doar pentru studiu / Only for study
