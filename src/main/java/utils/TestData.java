@@ -9,7 +9,7 @@ public class TestData {
 
 //    public final static String ADMIN_USERNAME = "emailaddress@hotmail.com" ;
 
-    public final static String ADMIN_PASSWORD = "Cristian21-test" ;
+    public final static String ADMIN_PASSWORD = "PAROLA" ;
 
 //    public final static String ADMIN_PASSWORD = "password" ;
 
